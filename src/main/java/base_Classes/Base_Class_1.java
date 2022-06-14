@@ -16,6 +16,7 @@ public class Base_Class_1 {
 	static ExtentHtmlReporter htmlReporter;
 	
 	static ExtentReports report;
+	
 	static ExtentTest test;
 	
 	public static WebDriver getDriver(String browser)
